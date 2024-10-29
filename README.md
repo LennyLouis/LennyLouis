@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon GitHub !
 
-<!--
-**LennyLouis/LennyLouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant-Ingénieur en IT [@ESIEA](https://www.esiea.fr)  
+💼 Software Engineer [@Orange France](https://www.orange.fr)
 
-Here are some ideas to get you started:
+### 🚀 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionné par le développement logiciel et l'innovation technologique, je conjugue mes études d'ingénieur avec une expérience professionnelle enrichissante chez l'un des leaders français des télécommunications.
+
+### 🛠️ Tech Stack
+
+```
+🔧 Backend: Java, Python, Node.js
+🌐 Frontend: React, Vue.js, TypeScript
+📱 Mobile: React Native, Flutter
+☁️ Cloud: AWS, GCP
+🗄️ Database: PostgreSQL, MongoDB
+🔀 DevOps: Docker, Kubernetes, CI/CD
+```
+
+### 📫 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](votre-lien-linkedin)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](votre-lien-twitter)
+
+---
+*"Le code est poésie en action"* 🚀
