@@ -20,8 +20,4 @@ Passionné par le développement logiciel et l'innovation technologique, je conj
 
 ### 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](votre-lien-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](votre-lien-twitter)
-
----
-*"Le code est poésie en action"* 🚀
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenny-louis/)
