@@ -22,3 +22,5 @@ I enjoy solving complex problems, exploring new technologies and building meanin
 ☁️ Cloud & DevOps: AWS, Docker, Kubernetes, GitLab CI/CD
 🗄️ Database: PostgreSQL, MongoDB, MariaDB
 🛠️ Tools: Git, Linux, Nix, Jira, Figma
+
+![](https://komarev.com/ghpvc/?username=LennyLouis&style=pixel&abbreviated=true)
